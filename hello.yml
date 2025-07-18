@@ -1,9 +1,5 @@
-"apple" : "I am a red fruit"
+# Key-Value Pairs
 
-1: "I am One"
-
-# List
-
-- apple
-  - mango
-- Hello
+name:Abhishek
+age:21
+isStudent:true
